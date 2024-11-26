@@ -1,7 +1,7 @@
 package com.dhh.websocket;
 
 import android.os.SystemClock;
-import android.support.v4.util.ArrayMap;
+import android.util.ArrayMap;
 import android.util.Log;
 
 import java.util.Map;
